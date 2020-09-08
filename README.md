@@ -1,12 +1,6 @@
 # 👋 I am software developer
 
-<p style="display: block; height: 200px; font-size: 2.0rem; text-align: center; box-shadow: 2px 2px 6px 2px #dddeff; background-color: #6390fb61;">
-  My name is Jorge Nemogá and I like to launch 
-  <img src="https://github.com/jhnemogap/jhnemogap/blob/master/assets/img/js-square-brands.svg" width="32px" style="background-color: yellow; position: relative; top: 16px" />
-  and 
-  <img src="https://github.com/jhnemogap/jhnemogap/blob/master/assets/img/python-brands.svg" width="32px" style="background-color: green; position: relative; top: 16px" /> 
-  code
-</p>
+![I like JavaScript and Python](https://github.com/jhnemogap/jhnemogap/blob/master/assets/img/githubProfileBannerHero.svg)
 
 ## 🔭 I’m currently working with ...
 
