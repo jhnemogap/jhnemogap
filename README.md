@@ -9,15 +9,16 @@
 - Javascript vanilla
 - React.js
 - React Redux
+- React Query
 - React Router / Reach Router
 - Sass / Stylus / CSS-in-JS
+- Ant Design
 
 ## 🌱 I’m currently learning ...
 
 - More React.js
-- React Native
-- Web accessibility
-- SEO basics
+- TypeScript to react.js
+- Vue.js v2.6
 - and English language
 
 <!--
