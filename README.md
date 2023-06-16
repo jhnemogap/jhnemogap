@@ -18,7 +18,8 @@
 
 - More React.js
 - TypeScript to react.js
-- Vue.js v2.6
+- ~~Vue.js v2.6~~
+- Svelte then SvelteKit
 - and English language
 
 <!--
